@@ -1,0 +1,2 @@
+# globalSNS
+globalSNS
